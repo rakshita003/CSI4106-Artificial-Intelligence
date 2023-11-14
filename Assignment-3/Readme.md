@@ -1,2 +1,2 @@
 # Assignment-3 
-#### The solution for assignment is uploaded as a pdf document.
+#### The solution for the assignment is uploaded as a PDF document.
